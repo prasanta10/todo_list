@@ -18,7 +18,7 @@ A todolist created using Mongo DB and ExpressJS.By using express routing you can
 
 ### Screenshots
 ![](./home.png)
-![](./Screenshot 2022-05-07 162424.png)
+![](./Screenshot2022-05-07162424.png)
 ![](./sports.png)
 
 
