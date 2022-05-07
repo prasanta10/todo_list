@@ -18,14 +18,13 @@ A todolist created using Mongo DB and ExpressJS.By using express routing you can
 
 ### Screenshots
 ![](./home.png)
-![](./Screenshot2022-05-07162424.png)
 ![](./sports.png)
 
 
 ### Links
 
 - Github Source Files: https://github.com/prasanta10/todo_list
-- URL : will deploy ASAP.
+- URL : https://secret-oasis-75644.herokuapp.com/
 
 ## My process
 
