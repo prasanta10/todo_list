@@ -5,6 +5,7 @@ This is a todolist project inspired from Angela Yu's complete bootcamp todolist 
 
 - [Overview](#overview)
   - [Description](#description)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,6 +15,12 @@ This is a todolist project inspired from Angela Yu's complete bootcamp todolist 
 ### Description
 
 A todolist created using Mongo DB and ExpressJS.By using express routing you can create multiple lists of your interests and simply access each list whenever you want. Easy adding and deleting of items from each list you create!. 
+
+### Screenshots
+![](./home.png)
+![](./Screenshot 2022-05-07 162424.png)
+![](./sports.png)
+
 
 ### Links
 
